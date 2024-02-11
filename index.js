@@ -3,4 +3,4 @@ function init() {
     return Dropdown
   }
   
-  module.exports = init
+  module.exports = init()
