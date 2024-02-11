@@ -9,7 +9,7 @@ Install the package using npm or yarn:
 ```bash
 npm i react-native-dropdown-opensource
 
-
+```
 ##Usage
 
 ```javascript
