@@ -47,16 +47,16 @@ export default App;
 
 ###Props
 ##Required Props
-#options: An array of options to be displayed in the dropdown.
-#onSelect: A callback function triggered when an option is selected.
-#selectedOption: The currently selected option.
+1. options: An array of options to be displayed in the dropdown.
+2. onSelect: A callback function triggered when an option is selected.
+3. selectedOption: The currently selected option.
 
 ##Optional Props
-#buttonStyle: Additional styles for the dropdown button.
-#dropdownStyle: Additional styles for the dropdown container.
-#textStyle: Additional styles for the text within the dropdown.
-#scroll: Enable scrolling in the dropdown.
-#itemsVisible: Number of items visible in the dropdown (if scrolling is enabled).
+1. buttonStyle: Additional styles for the dropdown button.
+2. dropdownStyle: Additional styles for the dropdown container.
+3. textStyle: Additional styles for the text within the dropdown.
+4. scroll: Enable scrolling in the dropdown.
+5. itemsVisible: Number of items visible in the dropdown (if scrolling is enabled).
 
 
 
