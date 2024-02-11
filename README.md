@@ -14,7 +14,7 @@ npm i react-native-dropdown-opensource
 
 ```javascript
 import React, { useState } from 'react';
-import CustomDropdown from 'reactnative-dropdown';
+import CustomDropdown from 'react-native-dropdown-opensource';
 
 const App = () => {
   const options = ['Option 1', 'Option 2', 'Option 3', 'Option 5'];
