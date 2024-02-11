@@ -1,0 +1,23 @@
+{
+  "name": "react-native-dropdown-opensource",
+  "version": "1.0.0",
+  "description": "a dropdown component for react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bishal-joshi/react-native-dropdown-opensource.git"
+  },
+  "keywords": [
+    "react",
+    "native"
+  ],
+  "author": "Bishal Joshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bishal-joshi/react-native-dropdown-opensource/issues"
+  },
+  "homepage": "https://github.com/Bishal-joshi/react-native-dropdown-opensource#readme"
+}
