@@ -10,7 +10,7 @@ Install the package using npm or yarn:
 npm i react-native-dropdown-opensource
 
 ```
-##Usage
+## Usage
 
 ```javascript
 import React, { useState } from 'react';
@@ -45,13 +45,13 @@ const App = () => {
 export default App;
 ```
 
-###Props
-##Required Props
+## Props
+### Required Props
 1. options: An array of options to be displayed in the dropdown.
 2. onSelect: A callback function triggered when an option is selected.
 3. selectedOption: The currently selected option.
 
-##Optional Props
+### Optional Props
 1. buttonStyle: Additional styles for the dropdown button.
 2. dropdownStyle: Additional styles for the dropdown container.
 3. textStyle: Additional styles for the text within the dropdown.
@@ -62,7 +62,7 @@ export default App;
 
 
 
-##Example
+## Example
 
 ```javascript
 <CustomDropdown
